@@ -3,7 +3,7 @@ Basic AR app that, by scanning a poster of Avengers Infinity War, displays Hulk 
 
 # Setup
 
-This project was developed using Unity v2018.1.2f1 to run on Android
+This project was developed using Unity v2018.1.2f1 and Visual Studio to run on Android. 
 
 # Target
 
