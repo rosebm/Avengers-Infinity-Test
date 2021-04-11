@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rosalynblanco/.android/build-cache/6fa0f52829111eef2ad7ee5673fee7edd4f3e761/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b2a53d38a505be89060de16e0ff5280f5642c9da">
+        <dex dex="/Users/rosalynblanco/Documents/Unity/PlayPauseVideo/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_6abf01ee598a12697250d10aa7aaf81b4c40b15b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rosalynblanco/.android/build-cache/6fa0f52829111eef2ad7ee5673fee7edd4f3e761/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="/Users/rosalynblanco/Documents/Unity/PlayPauseVideo/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6665db21717243dda7c9e0e4018a11dd5cfbdcfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rosalynblanco/.android/build-cache/6fa0f52829111eef2ad7ee5673fee7edd4f3e761/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e2c75a74132e6287974dcac936fa93db1f5f84">
+        <dex dex="/Users/rosalynblanco/Documents/Unity/PlayPauseVideo/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_2cbb893df687192a1377c45ff2306d76d0bb4a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rosalynblanco/Documents/Unity/PlayPauseVideo/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9dd087625e1a2fc0fcb96eb7c25bf2ac7bcf8ca2">
+        <dex dex="/Users/rosalynblanco/Documents/Unity/PlayPauseVideo/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_39e18e0512d6661bf6febdd6adefd1201a4215c8.jar" />
+    </item>
+
+</items>
